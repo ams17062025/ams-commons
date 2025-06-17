@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>ams</artifactId>
+	<artifactId>ams-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ams</name>
 	<description>Agriculture Management System</description>
